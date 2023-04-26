@@ -1,6 +1,6 @@
 <?php
 
-   $db_name = 'mysql:host=localhost;dbname=career_adventure_workbook';
+   $db_name = 'mysql:host=localhost;dbname=DBNAME';
    $user_name = 'root';
    $user_password = '';
 
